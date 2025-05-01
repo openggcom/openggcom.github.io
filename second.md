@@ -5,9 +5,7 @@ layout: default  # 主题的默认布局
 
 # 视频
 
-
-
-
+[访问 OpenAI 官网](https://www.openai.com)
 
 
  122
