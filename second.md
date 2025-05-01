@@ -7,8 +7,8 @@ layout: default  # 主题的默认布局
 
 [登泰山](https://opengg.wistia.com/medias/iogx2cigoy)
 
-<script src="[https://fast.wistia.com/player.js](https://fast.wistia.com/player.js)" async></script><script src="[https://fast.wistia.com/embed/iogx2cigoy.js](https://fast.wistia.com/embed/iogx2cigoy.js)" async type="module"></script><style>wistia-player[media-id='iogx2cigoy']:not(:defined) { background: center / contain no-repeat url('[https://fast.wistia.com/embed/medias/iogx2cigoy/swatch](https://fast.wistia.com/embed/medias/iogx2cigoy/swatch)'); display: block; filter: blur(5px); padding-top:56.25%; }</style>
 
+<iframe src="https://fast.wistia.net/embed/iframe/iogx2cigoy" allowfullscreen width="400" height="250"></iframe>
 
  
 ## 2
