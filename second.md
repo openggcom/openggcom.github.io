@@ -7,7 +7,7 @@ layout: default  # 主题的默认布局
 
 [登泰山](https://opengg.wistia.com/medias/iogx2cigoy)
 
-
+<iframe src="https://fast.wistia.net/embed/iframe/iogx2cigoy" allowfullscreen width="560" height="315"></iframe>
 
 
  
