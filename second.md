@@ -2,8 +2,8 @@
 title: second
 layout: default  # 主题的默认布局
 ---
-
 | 古 | 一 | 惯 | 白 | 青 | 是 | 浪 | 滚 |
+|----|----|----|----|----|----|----|----|
 | 今 | 壶 | 看 | 发 | 山 | 非 | 花 | 滚 |
 | 多 | 浊 | 秋 | 渔 | 依 | 成 | 淘 | 长 |
 | 少 | 酒 | 月 | 樵 | 旧 | 败 | 尽 | 江 |
@@ -13,7 +13,6 @@ layout: default  # 主题的默认布局
 | 笑 |     |    |    | 夕 |    |    |    |
 | 谈 |     |    |    | 阳 |    |    |    |
 | 中 |     |    |    | 红 |    |    |    |
-
 # 登泰山
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://fast.wistia.net/embed/iframe/iogx2cigoy"
