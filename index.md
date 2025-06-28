@@ -14,5 +14,5 @@
 # 凛冬已至 活在现实 20250322
 # 认清平庸 记录生活 20250518
 # [test](second.md)
-
+# 聚焦 舍弃 20250628
 [Home](index.md) | [About](about.md)
